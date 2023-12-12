@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6RQAAondFWs6sgvWbKbxUFN5ZMO1Obn6KJq+uKP+jAE=",
+  "Source": "RestWithAspNetCore.Api",
+  "BasePath": "_content/RestWithAspNetCore.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
